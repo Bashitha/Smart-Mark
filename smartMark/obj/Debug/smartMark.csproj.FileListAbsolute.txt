@@ -1,0 +1,14 @@
+c:\users\leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\smartMark.exe.config
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\smartMark.exe
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\smartMark.pdb
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\obj\Debug\smartMark.csprojResolveAssemblyReference.cache
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\obj\Debug\smartMark.Form1.resources
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\obj\Debug\smartMark.Properties.Resources.resources
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\obj\Debug\smartMark.csproj.GenerateResource.Cache
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\obj\Debug\smartMark.exe
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\obj\Debug\smartMark.pdb
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\GMailSend.dll
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\itextsharp.dll
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\itextsharp.xtra.dll
+C:\Users\Leshan\documents\visual studio 2013\Projects\smartMark\smartMark\bin\Debug\itextsharp.xml
