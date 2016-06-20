@@ -1,1 +1,3 @@
 # Smart-Mark
+
+This is the project that we had to do in the Embedded Systems Course(CO321). This is a Portable Biometric Fingerprint Attendance Marking Device. Here we take the fingerprint from the fingerprint sensor and mark the attendance instead of the time wasting manual process. Although we see some of the devices in today’s market they have security issues, not wireless, not portable, not analyzing data after taking the attendance etc. Here in smartMARK we have addressed all these problems from one device. Lecturers were very impressed about this project and they recommended our product for the faculty usage.
